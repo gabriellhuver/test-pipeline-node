@@ -1,4 +1,4 @@
-// Application hooks that run for every service
+// Application hooks that run for every service teste
 
 module.exports = {
   before: {
